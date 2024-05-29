@@ -1,0 +1,378 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="2.97" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 19.0 build 326" majorVersion="19" buildNumber="326" viewAngle3D="100.925968316201" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="FF51E6D4152D02479E4FDBB993F67C80">
+     <media>
+          <DOMSoundItem name="Audio 1 (mp3cut.net).mp3" itemID="665749f3-0000042e" sourceExternalFilepath="./LIBRARY/Audio 1 (mp3cut.net).mp3" sourceLastImported="1716996363" externalFileCRC32="4127315923" externalFileSize="925499" href="Audio 1 (mp3cut.net).mp3" soundDataHRef="M 58 1716996595.dat" format="44kHz 16bit Stereo" sampleCount="2550528" exportFormat="1" exportBits="7" dataLength="925361" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="318816"/>
+          <DOMBitmapItem name="Awan.jpg" itemID="66571da6-00000161" sourceExternalFilepath="./LIBRARY/Awan.jpg" sourceLastImported="1716905734" externalFileCRC32="3021241954" externalFileSize="51282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Awan.jpg" bitmapDataHRef="M 5 1716985254.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="BIRD1.png" itemID="66572db1-000002cf" sourceExternalFilepath="./LIBRARY/BIRD1.png" sourceLastImported="1716956187" externalFileCRC32="3094962781" externalFileSize="732187" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD1.png" bitmapDataHRef="M 8 1716989361.dat" frameRight="38400" frameBottom="37980"/>
+          <DOMBitmapItem name="BIRD2.png" itemID="66572e69-000002dd" sourceExternalFilepath="./LIBRARY/BIRD2.png" sourceLastImported="1716956194" externalFileCRC32="839712514" externalFileSize="817117" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD2.png" bitmapDataHRef="M 10 1716989545.dat" frameRight="38400" frameBottom="38180"/>
+          <DOMBitmapItem name="BIRD3.png" itemID="66572e69-000002e1" sourceExternalFilepath="./LIBRARY/BIRD3.png" sourceLastImported="1716956200" externalFileCRC32="2836210739" externalFileSize="780498" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD3.png" bitmapDataHRef="M 11 1716989545.dat" frameRight="38400" frameBottom="41420"/>
+          <DOMBitmapItem name="BIRD4.png" itemID="66572e69-000002e5" sourceExternalFilepath="./LIBRARY/BIRD4.png" sourceLastImported="1716956206" externalFileCRC32="840795985" externalFileSize="414362" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD4.png" bitmapDataHRef="M 12 1716989545.dat" frameRight="38400" frameBottom="28800"/>
+          <DOMBitmapItem name="BIRD5.png" itemID="66572e6a-000002e9" sourceExternalFilepath="./LIBRARY/BIRD5.png" sourceLastImported="1716956210" externalFileCRC32="835119379" externalFileSize="625638" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD5.png" bitmapDataHRef="M 13 1716989546.dat" frameRight="38400" frameBottom="32940"/>
+          <DOMBitmapItem name="BIRD6.png" itemID="66572e6a-000002ed" sourceExternalFilepath="./LIBRARY/BIRD6.png" sourceLastImported="1716956214" externalFileCRC32="1360844253" externalFileSize="722425" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD6.png" bitmapDataHRef="M 14 1716989546.dat" frameRight="38400" frameBottom="39280"/>
+          <DOMBitmapItem name="BIRD7.png" itemID="66572e6b-000002f1" sourceExternalFilepath="./LIBRARY/BIRD7.png" sourceLastImported="1716956219" externalFileCRC32="2132477580" externalFileSize="578380" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD7.png" bitmapDataHRef="M 15 1716989547.dat" frameRight="38400" frameBottom="30320"/>
+          <DOMBitmapItem name="BIRD8.png" itemID="66572e6b-000002f5" sourceExternalFilepath="./LIBRARY/BIRD8.png" sourceLastImported="1716956223" externalFileCRC32="1241174699" externalFileSize="486732" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD8.png" bitmapDataHRef="M 16 1716989547.dat" frameRight="38400" frameBottom="34200"/>
+          <DOMBitmapItem name="BIRD9.png" itemID="66572e6b-000002f9" sourceExternalFilepath="./LIBRARY/BIRD9.png" sourceLastImported="1716956228" externalFileCRC32="1273579398" externalFileSize="602160" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="BIRD9.png" bitmapDataHRef="M 17 1716989547.dat" frameRight="38400" frameBottom="32620"/>
+          <DOMBitmapItem name="Daun.png" itemID="66571d12-00000150" sourceExternalFilepath="./LIBRARY/Daun.png" sourceLastImported="1716914755" externalFileCRC32="1663727497" externalFileSize="230073" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Daun.png" bitmapDataHRef="M 3 1716985106.dat" frameRight="10880" frameBottom="9180"/>
+          <DOMBitmapItem name="Langit.jpg" itemID="66571c2e-00000148" sourceExternalFilepath="./LIBRARY/Langit.jpg" sourceLastImported="1716906005" externalFileCRC32="3565561955" externalFileSize="3181" allowSmoothing="true" quality="50" href="Langit.jpg" bitmapDataHRef="M 1 1716984878.dat" frameRight="7000" frameBottom="5260" isJPEG="true"/>
+          <DOMBitmapItem name="Matahari.png" itemID="66571dcb-00000165" sourceExternalFilepath="./LIBRARY/Matahari.png" sourceLastImported="1716915046" externalFileCRC32="2589076335" externalFileSize="101673" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Matahari.png" bitmapDataHRef="M 6 1716985291.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="Mulut 1.png" itemID="66573e5c-000003c4" sourceExternalFilepath="./LIBRARY/Mulut 1.png" sourceLastImported="1716956743" externalFileCRC32="3734090420" externalFileSize="22855" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 1.png" bitmapDataHRef="M 42 1716993628.dat" frameRight="5920" frameBottom="5940"/>
+          <DOMBitmapItem name="Mulut 10.png" itemID="66573ea6-000003ee" sourceExternalFilepath="./LIBRARY/Mulut 10.png" sourceLastImported="1716957029" externalFileCRC32="3638406562" externalFileSize="10751" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 10.png" bitmapDataHRef="M 51 1716993702.dat" frameRight="3980" frameBottom="4380"/>
+          <DOMBitmapItem name="Mulut 11.png" itemID="66573ea6-000003f2" sourceExternalFilepath="./LIBRARY/Mulut 11.png" sourceLastImported="1716957066" externalFileCRC32="4223554663" externalFileSize="12460" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 11.png" bitmapDataHRef="M 52 1716993702.dat" frameRight="4300" frameBottom="3860"/>
+          <DOMBitmapItem name="Mulut 12.png" itemID="66573ea6-000003f6" sourceExternalFilepath="./LIBRARY/Mulut 12.png" sourceLastImported="1716957088" externalFileCRC32="1444546833" externalFileSize="19291" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 12.png" bitmapDataHRef="M 53 1716993702.dat" frameRight="6300" frameBottom="3920"/>
+          <DOMBitmapItem name="Mulut 2.png" itemID="66573ea5-000003ce" sourceExternalFilepath="./LIBRARY/Mulut 2.png" sourceLastImported="1716956771" externalFileCRC32="1115289703" externalFileSize="18862" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 2.png" bitmapDataHRef="M 43 1716993701.dat" frameRight="4660" frameBottom="6000"/>
+          <DOMBitmapItem name="Mulut 3.png" itemID="66573ea6-000003d2" sourceExternalFilepath="./LIBRARY/Mulut 3.png" sourceLastImported="1716956815" externalFileCRC32="1906618344" externalFileSize="14069" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 3.png" bitmapDataHRef="M 44 1716993702.dat" frameRight="4520" frameBottom="5600"/>
+          <DOMBitmapItem name="Mulut 4.png" itemID="66573ea6-000003d6" sourceExternalFilepath="./LIBRARY/Mulut 4.png" sourceLastImported="1716956844" externalFileCRC32="1598993473" externalFileSize="21670" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 4.png" bitmapDataHRef="M 45 1716993702.dat" frameRight="5800" frameBottom="5820"/>
+          <DOMBitmapItem name="Mulut 5.png" itemID="66573ea6-000003da" sourceExternalFilepath="./LIBRARY/Mulut 5.png" sourceLastImported="1716956867" externalFileCRC32="3690160102" externalFileSize="16953" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 5.png" bitmapDataHRef="M 46 1716993702.dat" frameRight="5120" frameBottom="4540"/>
+          <DOMBitmapItem name="Mulut 6.png" itemID="66573ea6-000003de" sourceExternalFilepath="./LIBRARY/Mulut 6.png" sourceLastImported="1716956895" externalFileCRC32="465922371" externalFileSize="17407" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 6.png" bitmapDataHRef="M 47 1716993702.dat" frameRight="5340" frameBottom="3280"/>
+          <DOMBitmapItem name="Mulut 7.png" itemID="66573ea6-000003e2" sourceExternalFilepath="./LIBRARY/Mulut 7.png" sourceLastImported="1716956935" externalFileCRC32="1464619716" externalFileSize="4457" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 7.png" bitmapDataHRef="M 48 1716993702.dat" frameRight="4240" frameBottom="2940"/>
+          <DOMBitmapItem name="Mulut 8.png" itemID="66573ea6-000003e6" sourceExternalFilepath="./LIBRARY/Mulut 8.png" sourceLastImported="1716956983" externalFileCRC32="2433503577" externalFileSize="10448" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 8.png" bitmapDataHRef="M 49 1716993702.dat" frameRight="5780" frameBottom="3400"/>
+          <DOMBitmapItem name="Mulut 9.png" itemID="66573ea6-000003ea" sourceExternalFilepath="./LIBRARY/Mulut 9.png" sourceLastImported="1716957116" externalFileCRC32="1447630808" externalFileSize="12338" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mulut 9.png" bitmapDataHRef="M 50 1716993702.dat" frameRight="5520" frameBottom="4480"/>
+          <DOMBitmapItem name="Pohon.png" itemID="66571d6b-0000015d" sourceExternalFilepath="./LIBRARY/Pohon.png" sourceLastImported="1716914794" externalFileCRC32="695370249" externalFileSize="92437" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Pohon.png" bitmapDataHRef="M 4 1716985195.dat" frameRight="7200" frameBottom="7200"/>
+          <DOMBitmapItem name="Rumah.png" itemID="66571e00-00000169" sourceExternalFilepath="./LIBRARY/Rumah.png" sourceLastImported="1716906142" externalFileCRC32="2302074887" externalFileSize="49168" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Rumah.png" bitmapDataHRef="M 7 1716985344.dat" frameRight="7200" frameBottom="7200"/>
+          <DOMBitmapItem name="Tanah.png" itemID="66571cb0-0000014c" sourceExternalFilepath="./LIBRARY/Tanah.png" sourceLastImported="1716914807" externalFileCRC32="787867837" externalFileSize="103040" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Tanah.png" bitmapDataHRef="M 2 1716985008.dat" frameRight="12800" frameBottom="7200"/>
+     </media>
+     <symbols>
+          <Include href="Badan.xml" itemIcon="1" loadImmediate="false" itemID="665727e4-000001d0" lastModified="1716987876"/>
+          <Include href="Burung.xml" itemIcon="1" loadImmediate="false" itemID="66572de8-000002d1" lastModified="1716989659"/>
+          <Include href="Karakter.xml" itemIcon="1" loadImmediate="false" itemID="665724c2-000001b4" lastModified="1716996599"/>
+          <Include href="Kepala.xml" itemIcon="1" loadImmediate="false" itemID="665727cb-000001cc" lastModified="1716993577"/>
+          <Include href="Leher.xml" itemIcon="1" loadImmediate="false" itemID="665727ea-000001d4" lastModified="1716987883"/>
+          <Include href="Mulut.xml" itemIcon="1" loadImmediate="false" itemID="66573e70-000003c6" lastModified="1716993890"/>
+          <Include href="Rumah.xml" itemIcon="1" loadImmediate="false" itemID="66571e7a-0000016b" lastModified="1716985466"/>
+          <Include href="Sewek.xml" itemIcon="1" loadImmediate="false" itemID="665727f2-000001d8" lastModified="1716987890"/>
+          <Include href="Tween 1.xml" itemIcon="1" loadImmediate="false" itemID="66572a3c-000001eb" lastModified="1716988476"/>
+          <Include href="Tween 2.xml" itemIcon="1" loadImmediate="false" itemID="66572a3c-000001ef" lastModified="1716988476"/>
+          <Include href="Tween 3.xml" itemIcon="1" loadImmediate="false" itemID="66572a3c-000001f3" lastModified="1716988476"/>
+          <Include href="Tween 4.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-000001f7" lastModified="1716988477"/>
+          <Include href="Tween 5.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-000001fb" lastModified="1716988477"/>
+          <Include href="Tween 6.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-000001ff" lastModified="1716988477"/>
+          <Include href="Tween 7.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-00000203" lastModified="1716988477"/>
+          <Include href="Tween 8.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-00000207" lastModified="1716988477"/>
+          <Include href="Tween 9.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-0000020b" lastModified="1716988477"/>
+          <Include href="Tween 10.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-0000020f" lastModified="1716988477"/>
+          <Include href="Tween 11.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-00000213" lastModified="1716988477"/>
+          <Include href="Tween 12.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-00000217" lastModified="1716988477"/>
+          <Include href="Tween 13.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-0000021b" lastModified="1716988477"/>
+          <Include href="Tween 14.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-0000021f" lastModified="1716988477"/>
+          <Include href="Tween 15.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-00000223" lastModified="1716988477"/>
+          <Include href="Tween 16.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-00000227" lastModified="1716988477"/>
+          <Include href="Tween 17.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-0000022b" lastModified="1716988477"/>
+          <Include href="Tween 18.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-0000022f" lastModified="1716988477"/>
+          <Include href="Tween 19.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-00000233" lastModified="1716988477"/>
+          <Include href="Tween 20.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-00000237" lastModified="1716988477"/>
+          <Include href="Tween 21.xml" itemIcon="1" loadImmediate="false" itemID="66572a3d-0000023b" lastModified="1716988477"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="29" cameraLayerEnabled="true" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Camera" color="#0099FF" autoNamed="false" layerType="camera">
+                         <frames>
+                              <DOMFrame index="0" duration="214" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="__Camera__" name="___camera___instance" isVisible="false">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="360"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="__Camera__" name="___camera___instance" centerPoint3DX="869.15" centerPoint3DY="330.2" isVisible="false">
+                                             <matrix>
+                                                  <Matrix tx="869.15" ty="330.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Rumput" color="#FF800A" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Daun.png">
+                                             <matrix>
+                                                  <Matrix a="0.519851684570312" d="0.490631103515625" tx="-66" ty="541"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Daun.png">
+                                             <matrix>
+                                                  <Matrix a="0.519851684570312" d="0.490631103515625" tx="-66" ty="541"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Audio" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="215" keyMode="9728" soundName="Audio 1 (mp3cut.net).mp3">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Karakter" color="#0000FF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" tweenType="motion" motionTweenSnap="true" keyMode="22017" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Karakter" selected="true" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="56.8" ty="259.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="80.35" y="185.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Karakter" selected="true" symbolType="graphic" firstFrame="4" centerPoint3DX="1375.7" centerPoint3DY="423.55" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="1295.7" ty="247.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="80.35" y="185.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Bayangan" color="#0000FF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" tweenType="motion" motionTweenSnap="true" keyMode="22017" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Karakter" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix c="0.9959716796875" d="-0.998886108398438" tx="-310.55" ty="999.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="80.35" y="157.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                                   <frameFilters>
+                                        <DropShadowFilter blurX="4" blurY="4" distance="4" hideObject="true" strength="0.5"/>
+                                   </frameFilters>
+                              </DOMFrame>
+                              <DOMFrame index="214" tweenType="motion" motionTweenSnap="true" keyMode="22017" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Karakter" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix c="0.9959716796875" d="-0.998886108398438" tx="931.75" ty="985.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="80.35" y="157.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                                   <frameFilters>
+                                        <DropShadowFilter blurX="4" blurY="4" distance="4" hideObject="true" strength="0.5"/>
+                                   </frameFilters>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Rumah" color="#669900" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Rumah" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="821" ty="25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="310.6" y="342.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Rumah" symbolType="graphic" centerPoint3DX="1131.6" centerPoint3DY="367.65" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="821" ty="25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="310.6" y="342.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Burung" color="#00FFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" tweenType="motion" motionTweenSnap="true" keyMode="22017" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Burung" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.113784790039062" d="0.0853118896484375" tx="-29.55" ty="59.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="960.15" y="949.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Burung" selected="true" symbolType="graphic" firstFrame="14" centerPoint3DX="1462.75" centerPoint3DY="71.35" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.113784790039062" d="0.0853118896484375" tx="1353.55" ty="-35.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="960.15" y="949.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Pohon" color="#FF4FFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pohon.png">
+                                             <matrix>
+                                                  <Matrix a="1.7711181640625" d="2.22555541992188" tx="-267" ty="-35"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pohon.png">
+                                             <matrix>
+                                                  <Matrix a="1.7711181640625" d="2.22555541992188" tx="-267" ty="-35"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Awan" color="#009999" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Awan.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.5592041015625" d="1.22920227050781" tx="-17" ty="-74"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Awan.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.5592041015625" d="1.22920227050781" tx="-17" ty="-74"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Matahari" color="#FF0000" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Matahari.png">
+                                             <matrix>
+                                                  <Matrix a="0.3131103515625" d="0.284591674804688" tx="371"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="248.95" y="251.4"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Matahari.png">
+                                             <matrix>
+                                                  <Matrix a="0.3131103515625" d="0.284591674804688" tx="371"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="248.95" y="251.4"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Jalan" color="#9933CC" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Tanah.png">
+                                             <matrix>
+                                                  <Matrix a="3.96456909179688" d="2.92428588867188" tx="-366" ty="-249"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Tanah.png">
+                                             <matrix>
+                                                  <Matrix a="3.96456909179688" d="2.92428588867188" tx="-366" ty="-249"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Langit" color="#00FFFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Langit.jpg">
+                                             <matrix>
+                                                  <Matrix a="6.01495361328125" d="-5.79583740234375" tx="-378" ty="1291.3"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Langit.jpg">
+                                             <matrix>
+                                                  <Matrix a="6.01495361328125" d="-5.79583740234375" tx="-378" ty="1291.3"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="2962267" publishTime="1716996743"/>
+          <PublishItem publishSize="2962267" publishTime="1716996608"/>
+          <PublishItem publishSize="7791360" publishTime="1716995632"/>
+          <PublishItem publishSize="7791360" publishTime="1716995522"/>
+          <PublishItem publishSize="2018850" publishTime="1716989814"/>
+          <PublishItem publishSize="183870" publishTime="1716988629"/>
+          <PublishItem publishSize="161352" publishTime="1716986493"/>
+          <PublishItem publishSize="161354" publishTime="1716986484"/>
+          <PublishItem publishSize="160373" publishTime="1716986434"/>
+          <PublishItem publishSize="160373" publishTime="1716986392"/>
+     </publishHistory>
+</DOMDocument>

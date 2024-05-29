@@ -1,0 +1,624 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Karakter" itemID="66568b7a-00000065" symbolType="graphic" lastModified="1716950822">
+  <timeline>
+    <DOMTimeline name="Karakter" currentFrame="29" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Baju" color="#FF800A" outline="true" useOutlineView="true" autoNamed="false" layerRiggingIndex="0">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Baju" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.35" y="63.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Baju" selected="true" symbolType="graphic" centerPoint3DX="85.9" centerPoint3DY="144" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.35" y="63.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Baju" selected="true" symbolType="graphic" centerPoint3DX="85.9" centerPoint3DY="144" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.35" y="63.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Baju" selected="true" symbolType="graphic" centerPoint3DX="85.9" centerPoint3DY="144" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.35" y="63.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Baju" selected="true" symbolType="graphic" centerPoint3DX="85.9" centerPoint3DY="144" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.35" y="63.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Baju" symbolType="graphic" centerPoint3DX="85.9" centerPoint3DY="144" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.35" y="63.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Baju" selected="true" symbolType="graphic" centerPoint3DX="85.9" centerPoint3DY="144" loop="loop">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.35" y="63.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sewek" color="#009999" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sewek" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="26.45" ty="90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.3" y="61.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sewek" selected="true" symbolType="graphic" centerPoint3DX="86.25" centerPoint3DY="152.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="26.45" ty="90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.3" y="61.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sewek" selected="true" symbolType="graphic" centerPoint3DX="86.25" centerPoint3DY="152.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="26.45" ty="90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.3" y="61.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sewek" selected="true" symbolType="graphic" centerPoint3DX="86.25" centerPoint3DY="152.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="26.45" ty="90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.3" y="61.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sewek" selected="true" symbolType="graphic" centerPoint3DX="86.25" centerPoint3DY="152.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="26.45" ty="90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.3" y="61.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sewek" symbolType="graphic" centerPoint3DX="86.25" centerPoint3DY="152.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="26.45" ty="90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.3" y="61.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sewek" selected="true" symbolType="graphic" centerPoint3DX="86.25" centerPoint3DY="152.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="26.45" ty="90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.3" y="61.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Kaki_kiri" color="#9933CC" outline="true" useOutlineView="true" autoNamed="false" layerRiggingIndex="1">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kiri" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965911865234375" b="0.258804321289062" c="-0.258804321289062" d="0.965911865234375" tx="38.5" ty="199.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.65" y="15.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kiri" selected="true" symbolType="graphic" centerPoint3DX="52.4" centerPoint3DY="218.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="-0.258804321289062" c="0.258804321289062" d="0.965927124023438" tx="30.65" ty="209"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.6" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kiri" selected="true" symbolType="graphic" centerPoint3DX="52.4" centerPoint3DY="218.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="-0.258804321289062" c="0.258804321289062" d="0.965927124023438" tx="30.65" ty="209"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.6" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kiri" selected="true" symbolType="graphic" centerPoint3DX="52.75" centerPoint3DY="218.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965911865234375" b="0.258804321289062" c="-0.258804321289062" d="0.965911865234375" tx="38.5" ty="199.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.65" y="15.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kiri" selected="true" symbolType="graphic" centerPoint3DX="52.45" centerPoint3DY="218.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965896606445312" b="-0.258804321289062" c="0.258804321289062" d="0.965896606445312" tx="30.55" ty="209.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.65" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kiri" symbolType="graphic" centerPoint3DX="52.75" centerPoint3DY="218.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.96588134765625" b="0.2587890625" c="-0.2587890625" d="0.96588134765625" tx="38.45" ty="199.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.65" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kiri" selected="true" symbolType="graphic" centerPoint3DX="52.55" centerPoint3DY="218.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="33.95" ty="203.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.6" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Kaki_kanan" color="#FF800A" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kanan" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965896606445312" b="0.258819580078125" c="-0.258819580078125" d="0.965896606445312" tx="102.45" ty="199.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.85" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kanan" selected="true" symbolType="graphic" centerPoint3DX="80.4" centerPoint3DY="31.25" loop="loop">
+                  <matrix>
+                    <Matrix a="1.00079345703125" b="-0.0030517578125" c="0.0030517578125" d="1.00079345703125" tx="61.7" ty="16.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.75" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kanan" selected="true" symbolType="graphic" centerPoint3DX="80.4" centerPoint3DY="31.25" loop="loop">
+                  <matrix>
+                    <Matrix a="1.00079345703125" b="-0.0030517578125" c="0.0030517578125" d="1.00079345703125" tx="61.7" ty="16.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.75" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kanan" selected="true" symbolType="graphic" centerPoint3DX="116.7" centerPoint3DY="218.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965896606445312" b="0.258819580078125" c="-0.258819580078125" d="0.965896606445312" tx="102.45" ty="199.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.85" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kanan" selected="true" symbolType="graphic" centerPoint3DX="116.35" centerPoint3DY="218.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965896606445312" b="-0.258773803710938" c="0.258773803710938" d="0.965896606445312" tx="94.45" ty="209.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.9" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kanan" symbolType="graphic" centerPoint3DX="116.6" centerPoint3DY="218.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965866088867188" b="0.258819580078125" c="-0.258819580078125" d="0.965866088867188" tx="102.35" ty="199.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.9" y="15.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kaki kanan" selected="true" symbolType="graphic" centerPoint3DX="116.6" centerPoint3DY="218.35" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999954223632812" d="0.999954223632812" tx="97.95" ty="203.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.8" y="15.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Kepala" color="#00FFFF" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kepala" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.988204956054688" b="0.15301513671875" c="-0.15301513671875" d="0.988204956054688" tx="31.3" ty="-90.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.25" y="38.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kepala" selected="true" symbolType="graphic" centerPoint3DX="88.9" centerPoint3DY="-43.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.994155883789062" b="-0.107940673828125" c="0.107940673828125" d="0.994155883789062" tx="20.95" ty="-74.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.25" y="38.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kepala" selected="true" symbolType="graphic" centerPoint3DX="88.9" centerPoint3DY="-43.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.994155883789062" b="-0.107940673828125" c="0.107940673828125" d="0.994155883789062" tx="20.95" ty="-74.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.25" y="38.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kepala" selected="true" symbolType="graphic" centerPoint3DX="88.95" centerPoint3DY="-43.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.988204956054688" b="0.15301513671875" c="-0.15301513671875" d="0.988204956054688" tx="31.3" ty="-90.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.25" y="38.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kepala" selected="true" symbolType="graphic" centerPoint3DX="88.95" centerPoint3DY="-43.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.994125366210938" b="-0.107940673828125" c="0.107940673828125" d="0.994125366210938" tx="21" ty="-74.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.2" y="38.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kepala" symbolType="graphic" centerPoint3DX="88.95" centerPoint3DY="-43.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.994125366210938" b="-0.107940673828125" c="0.107940673828125" d="0.994125366210938" tx="21" ty="-74.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.2" y="38.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Kepala" selected="true" symbolType="graphic" centerPoint3DX="89" centerPoint3DY="-43.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999984741210938" b="0.0048370361328125" c="-0.0048370361328125" d="0.999984741210938" tx="24.9" ty="-81.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.3" y="38.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Tangan" color="#FF4FFF" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tangan" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.65" ty="106.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.85" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tangan" selected="true" symbolType="graphic" centerPoint3DX="88.5" centerPoint3DY="117.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.65" ty="106.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.85" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tangan" selected="true" symbolType="graphic" centerPoint3DX="88.5" centerPoint3DY="117.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.65" ty="106.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.85" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tangan" selected="true" symbolType="graphic" centerPoint3DX="88.5" centerPoint3DY="117.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.65" ty="106.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.85" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tangan" selected="true" symbolType="graphic" centerPoint3DX="88.5" centerPoint3DY="117.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.65" ty="106.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.85" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tangan" symbolType="graphic" centerPoint3DX="88.5" centerPoint3DY="117.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.65" ty="106.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.85" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tangan" selected="true" symbolType="graphic" centerPoint3DX="88.5" centerPoint3DY="117.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.65" ty="106.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.85" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Leher" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Leher" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965911865234375" b="0.258804321289062" c="-0.258804321289062" d="0.965911865234375" tx="72.85" ty="-18.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.05" y="12.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Leher" selected="true" symbolType="graphic" centerPoint3DX="88.9" centerPoint3DY="-0.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="-0.258804321289062" c="0.258804321289062" d="0.965927124023438" tx="66.25" ty="-8.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.05" y="12.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Leher" selected="true" symbolType="graphic" centerPoint3DX="88.9" centerPoint3DY="-0.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="-0.258804321289062" c="0.258804321289062" d="0.965927124023438" tx="66.25" ty="-8.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.05" y="12.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Leher" selected="true" symbolType="graphic" centerPoint3DX="88.95" centerPoint3DY="-0.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965911865234375" b="0.258804321289062" c="-0.258804321289062" d="0.965911865234375" tx="72.85" ty="-18.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.05" y="12.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Leher" selected="true" symbolType="graphic" centerPoint3DX="89" centerPoint3DY="-0.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.965896606445312" b="-0.258804321289062" c="0.258804321289062" d="0.965896606445312" tx="66.3" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="12.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Leher" symbolType="graphic" centerPoint3DX="89" centerPoint3DY="-0.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.96588134765625" b="-0.2587890625" c="0.2587890625" d="0.96588134765625" tx="66.3" ty="-7.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="12.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" tweenType="motion" motionTweenSnap="true" keyMode="22017" parentLayerIndex="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Leher" selected="true" symbolType="graphic" centerPoint3DX="88.9" centerPoint3DY="-0.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="68.85" ty="-13.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.05" y="12.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

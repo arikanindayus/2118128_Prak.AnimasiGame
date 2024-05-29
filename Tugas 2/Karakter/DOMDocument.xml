@@ -1,0 +1,275 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="2.97" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 19.0 build 326" majorVersion="19" buildNumber="326" timelineLabelWidth="275" viewAngle3D="100.925968316201" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="76EBCC8DBB0CA24895CF0B4F9C361634">
+     <media>
+          <DOMBitmapItem name="Awan.jpg" itemID="66567f0b-00000023" sourceExternalFilepath="./LIBRARY/Awan.jpg" sourceLastImported="1716905734" externalFileCRC32="3021241954" externalFileSize="51282" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Awan.jpg" bitmapDataHRef="M 7 1716944651.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="Daun.png" itemID="66567f99-0000002e" sourceExternalFilepath="./LIBRARY/Daun.png" sourceLastImported="1716914755" externalFileCRC32="1663727497" externalFileSize="230073" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Daun.png" bitmapDataHRef="M 9 1716944793.dat" frameRight="10880" frameBottom="9180"/>
+          <DOMBitmapItem name="Langit.jpg" itemID="66567c4f-00000007" sourceExternalFilepath="./LIBRARY/Langit.jpg" sourceLastImported="1716906005" externalFileCRC32="3565561955" externalFileSize="3181" allowSmoothing="true" quality="50" href="Langit.jpg" bitmapDataHRef="M 1 1716943951.dat" frameRight="7000" frameBottom="5260" isJPEG="true"/>
+          <DOMBitmapItem name="Matahari.png" itemID="66567f52-0000002a" sourceExternalFilepath="./LIBRARY/Matahari.png" sourceLastImported="1716915046" externalFileCRC32="2589076335" externalFileSize="101673" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Matahari.png" bitmapDataHRef="M 8 1716944722.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="Pohon.png" itemID="66567e71-00000018" sourceExternalFilepath="./LIBRARY/Pohon.png" sourceLastImported="1716914794" externalFileCRC32="695370249" externalFileSize="92437" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Pohon.png" bitmapDataHRef="M 5 1716944497.dat" frameRight="7200" frameBottom="7200"/>
+          <DOMBitmapItem name="Rumah.png" itemID="66567eb0-0000001f" sourceExternalFilepath="./LIBRARY/Rumah.png" sourceLastImported="1716906142" externalFileCRC32="2302074887" externalFileSize="49168" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Rumah.png" bitmapDataHRef="M 6 1716944560.dat" frameRight="7200" frameBottom="7200"/>
+          <DOMBitmapItem name="Rumput.png" itemID="66567e40-00000014" sourceExternalFilepath="./LIBRARY/Rumput.png" sourceLastImported="1716914841" externalFileCRC32="170230172" externalFileSize="218718" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Rumput.png" bitmapDataHRef="M 4 1716944448.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Rumput.png copy" itemID="66567fd3-00000033" sourceExternalFilepath="./LIBRARY/Rumput.png" sourceLastImported="1716914841" externalFileSize="218718" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Rumput.png" bitmapDataHRef="M 10 1716944848.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Tanah.png" itemID="66567dc2-00000010" sourceExternalFilepath="./LIBRARY/Tanah.png" sourceLastImported="1716914807" externalFileCRC32="787867837" externalFileSize="103040" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Tanah.png" bitmapDataHRef="M 3 1716944322.dat" frameRight="12800" frameBottom="7200"/>
+     </media>
+     <symbols>
+          <Include href="Awan.xml" loadImmediate="false" itemID="6656817b-0000003b" lastModified="1716945275"/>
+          <Include href="Baju.xml" itemIcon="1" loadImmediate="false" itemID="66568f51-00000083" lastModified="1716948817"/>
+          <Include href="Kaki kanan.xml" itemIcon="1" loadImmediate="false" itemID="66568f73-0000008f" lastModified="1716948851"/>
+          <Include href="Kaki kiri.xml" itemIcon="1" loadImmediate="false" itemID="66568f68-0000008b" lastModified="1716948841"/>
+          <Include href="Karakter.xml" itemIcon="1" loadImmediate="false" itemID="66568b7a-00000065" lastModified="1716950822"/>
+          <Include href="Kepala.xml" itemIcon="1" loadImmediate="false" itemID="66568f32-0000007f" lastModified="1716948787"/>
+          <Include href="Leher.xml" itemIcon="1" loadImmediate="false" itemID="66568fbf-0000009b" lastModified="1716948927"/>
+          <Include href="Sewek.xml" itemIcon="1" loadImmediate="false" itemID="66568f5b-00000087" lastModified="1716948827"/>
+          <Include href="Tangan.xml" itemIcon="1" loadImmediate="false" itemID="66568f83-00000093" lastModified="1716948867"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="59" cameraLayerEnabled="true" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Camera" color="#0099FF" autoNamed="false" layerType="camera">
+                         <frames>
+                              <DOMFrame index="0" duration="214" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="__Camera__" name="___camera___instance" isVisible="false">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="360"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="__Camera__" name="___camera___instance" centerPoint3DX="894.75" centerPoint3DY="360" isVisible="false">
+                                             <matrix>
+                                                  <Matrix tx="894.75" ty="360"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Awan" color="#FF0000" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Awan">
+                                             <matrix>
+                                                  <Matrix tx="-68" ty="-124"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="516.05" y="332.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Awan" centerPoint3DX="448.05" centerPoint3DY="208.25">
+                                             <matrix>
+                                                  <Matrix tx="-68" ty="-124"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="516.05" y="332.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Daun" color="#FF4F4F" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-20">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Daun.png">
+                                             <matrix>
+                                                  <Matrix a="0.637313842773438" d="0.319595336914062" tx="1030" ty="574"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="272" y="230.45"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-20">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Daun.png">
+                                             <matrix>
+                                                  <Matrix a="0.637313842773438" d="0.319595336914062" tx="1030" ty="574"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="272" y="230.45"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Matahari" color="#669900" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-20">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Matahari.png">
+                                             <matrix>
+                                                  <Matrix a="0.419204711914062" d="0.338592529296875" tx="451" ty="-12"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-20">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Matahari.png">
+                                             <matrix>
+                                                  <Matrix a="0.419204711914062" d="0.338592529296875" tx="451" ty="-12"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Karakter" color="#0000FF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" tweenType="motion" motionTweenSnap="true" keyMode="22017" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Karakter" selected="true" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="291.15" ty="380.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="86.9" y="157.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-30">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Karakter" selected="true" symbolType="graphic" firstFrame="4" centerPoint3DX="1096.6" centerPoint3DY="532.45" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="1010" ty="380.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="86.9" y="157.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Rumah" color="#009999" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-100">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Rumah.png">
+                                             <matrix>
+                                                  <Matrix a="1.43778991699219" d="1.25650024414062" tx="1060" ty="253"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="179.2" y="180.45"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-100">
+                                   <elements>
+                                        <DOMBitmapInstance selected="true" libraryItemName="Rumah.png">
+                                             <matrix>
+                                                  <Matrix a="0.972991943359375" d="1.04983520507812" tx="1102" ty="286"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="179.65" y="179.25"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Pohon" color="#FF4FFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-20">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pohon.png">
+                                             <matrix>
+                                                  <Matrix a="1.50222778320312" d="1.57833862304688" tx="-221" ty="111"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Pohon.png">
+                                             <matrix>
+                                                  <Matrix a="1.50221252441406" d="1.57833862304688" tx="964" ty="124"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-20">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Pohon.png">
+                                             <matrix>
+                                                  <Matrix a="1.50222778320312" d="1.57833862304688" tx="-221" ty="111"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Pohon.png">
+                                             <matrix>
+                                                  <Matrix a="1.50221252441406" d="1.57833862304688" tx="964" ty="124"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Tanah" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="-10">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Tanah.png">
+                                             <matrix>
+                                                  <Matrix a="4.20121765136719" d="1.71556091308594" tx="-82" ty="160"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="-10">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Tanah.png">
+                                             <matrix>
+                                                  <Matrix a="4.20121765136719" d="1.71556091308594" tx="-82" ty="160"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Langit" color="#00FFFF" locked="true" autoNamed="false" attachedToCamera="true">
+                         <frames>
+                              <DOMFrame index="0" duration="214" keyMode="9728" frameZDepth="20">
+                                   <elements>
+                                        <DOMBitmapInstance selected="true" libraryItemName="Langit.jpg">
+                                             <matrix>
+                                                  <Matrix a="7.66940307617188" d="5.12467956542969" tx="-77" ty="-163"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="214" keyMode="9728" frameZDepth="20">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Langit.jpg">
+                                             <matrix>
+                                                  <Matrix a="7.66940307617188" d="5.12467956542969" tx="-77" ty="-163"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="178123" publishTime="1716951692"/>
+          <PublishItem publishSize="161433" publishTime="1716946851"/>
+          <PublishItem publishSize="161433" publishTime="1716946827"/>
+     </publishHistory>
+</DOMDocument>

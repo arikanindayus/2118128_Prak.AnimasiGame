@@ -1,0 +1,90 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Burung" itemID="66572de8-000002d1" symbolType="graphic" lastModified="1716989659">
+  <timeline>
+    <DOMTimeline name="Burung" currentFrame="24" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="BIRD1.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="BIRD1.png"/>
+                <DOMBitmapInstance libraryItemName="BIRD2.png">
+                  <matrix>
+                    <Matrix ty="439"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="BIRD3.png">
+                  <matrix>
+                    <Matrix ty="439"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="BIRD4.png">
+                  <matrix>
+                    <Matrix ty="439"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="BIRD5.png">
+                  <matrix>
+                    <Matrix ty="439"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="BIRD6.png">
+                  <matrix>
+                    <Matrix ty="439"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="BIRD7.png">
+                  <matrix>
+                    <Matrix ty="439"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="BIRD8.png">
+                  <matrix>
+                    <Matrix ty="439"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="BIRD9.png">
+                  <matrix>
+                    <Matrix ty="439"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

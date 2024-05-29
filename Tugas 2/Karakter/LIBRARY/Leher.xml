@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Leher" itemID="66568fbf-0000009b" symbolType="graphic" lastModified="1716948927">
+  <timeline>
+    <DOMTimeline name="Leher" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-68.8" ty="-67.65"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F4CAAB"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#020202"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1988 1863|1567 1863!1567 1863[1488 1863 1433 1824!1433 1824[1376 1785 1376 1730!1376 1730|1376 1486!1376 1486[1376 1431 1433 1392!1433 1392[1488 1353 1567 1353!1567 1353|1988 1353!1988 1353[2067 1353 2122 1392!2122 1392[2178 1431 2178
+ 1486!2178 1486|2178 1730!2178 1730[2178 1785 2122 1824!2122 1824[2067 1863 1988 1863"/>
+                    <Edge cubics="!1988 1863(;1988,1863 1567,1863 1567,1863q1988 1863 1567 1863);"/>
+                    <Edge cubics="!1567 1863(;1462,1863 1376,1803 1376,1730q1567 1863Q1488 1863q1433 1824Q1376 1785q1376 1730);"/>
+                    <Edge cubics="!1376 1730(;1376,1730 1376,1486 1376,1486q1376 1730 1376 1486);"/>
+                    <Edge cubics="!1376 1486(;1376,1413 1462,1353 1567,1353q1376 1486Q1376 1431q1433 1392Q1488 1353q1567 1353);"/>
+                    <Edge cubics="!1567 1353(;1567,1353 1988,1353 1988,1353q1567 1353 1988 1353);"/>
+                    <Edge cubics="!1988 1353(;2093,1353 2178,1413 2178,1486q1988 1353Q2067 1353q2122 1392Q2178 1431q2178 1486);"/>
+                    <Edge cubics="!2178 1486(;2178,1486 2178,1730 2178,1730q2178 1486 2178 1730);"/>
+                    <Edge cubics="!2178 1730(;2178,1803 2093,1863 1988,1863q2178 1730Q2178 1785q2122 1824Q2067 1863q1988 1863);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
